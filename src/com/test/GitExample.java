@@ -12,7 +12,9 @@ public class GitExample {
 		
 	}
 	
-	
+	public void update(){
+		System.out.println("update");
+	}
 	public static void main(String[] args) {
 		System.out.println("hello git");
 		GitExample git=new GitExample();
