@@ -8,6 +8,12 @@ public class GitTwo {
 	}
 	
 	
+	public void test(){
+		
+		System.out.println("Hi");
+		System.out.println("Hi");
+	}
+	
 	public static void main(String[] args) {
 		
 		GitTwo gt=new GitTwo();
